@@ -8,6 +8,7 @@ Each folder contains code that can be run directly on an RPi with the Hat and wi
 The rotation is set to 180 in most cases.
 
 * I Heart You - Is exactly what it says. 
+* Temperature Display - Duh!
 
 ## License
 
