@@ -5,7 +5,7 @@ Each folder contains code that can be run directly on an RPi with the Hat and wi
 
 ### Folders
 
-The rotation is set to 180 in most cases.
+The rotation is set to 180 in most cases. Check out the [API Reference for moe Info](https://pythonhosted.org/sense-hat/api/)
 
 * I Heart You - Is exactly what it says. 
 * Temperature Display - Duh!
